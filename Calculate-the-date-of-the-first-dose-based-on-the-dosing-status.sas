@@ -5,7 +5,7 @@ options fullstimer=1;
 /************************************************/
 
 *実行環境ROOT　※適宜変更してください;
-%let RT_PATH=C:\Users\micono\Desktop;
+%let RT_PATH=C:\Users\xxxx\Desktop;
 
 *データの場所　※適宜変更してください;
 %let Raw	= &RT_PATH.\1 ;
